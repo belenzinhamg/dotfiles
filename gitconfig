@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = belenmgil@gmail.com
+	name = Belen Martinez
